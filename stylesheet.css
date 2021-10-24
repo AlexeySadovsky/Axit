@@ -1,0 +1,193 @@
+
+
+.header{
+    width: 1400px;
+    height: 250px;
+    /* background-color: yellow; */
+    text-align: center;
+    /*border-color: yellow;*/
+}ы
+
+.title-text{
+    color: #86878B;
+    padding: 30px;
+}
+
+.main{
+    width: 1400px;
+    height: 345px;
+    margin: 0 auto;
+  
+}
+
+.line {
+    width: 64px;
+    height: 2px;
+    background-color: #E72424;
+    border-width: 0px;
+}
+
+.top-container{
+    width: 1400px;
+    height: 345px;
+    text-align: center;
+    padding: 30px;
+}
+
+.Thoughtful-Design {
+    display: inline-block;
+    width: 350px;
+    height: 225px;
+    /* background-color: blue; */
+}
+
+.Well-Crafted{
+    display: inline-block;
+    width: 350px;
+    height: 225px;
+    /* background-color: rgb(255, 0, 140); */
+}
+
+.Eazy-to-Customize{
+    
+    display: inline-block;
+    width: 350px;
+    height: 225px;
+    /* background-color: rgb(31, 201, 207); */
+}
+
+.title {
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px;
+    padding-top: 100px;
+    text-transform: uppercase;
+}
+
+.text{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+
+.subtitle{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.lamp{
+    height: 70px;
+    width: 70px;
+    margin: 0 auto;
+    border: 2px solid #E72424;
+    border-radius: 50%;
+    background-image: url(../Axi/styles/lamp.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.flash{
+    height: 70px;
+    width: 70px;
+    margin: 0 auto;
+    border: 2px solid #E72424;
+    border-radius: 50%;
+    background-image: url(../Axi/styles/flash.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.keyboard{
+    height: 70px;
+    width: 70px;
+    margin: 0 auto;
+    border: 2px solid #E72424;
+    border-radius: 50%;
+    background-image: url(../Axi/styles/keyboard.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.wrapper{
+    width: 1400px;
+    height: 1021px;
+    margin: 0 auto;
+}
+
+.container{
+    width: 78%;
+    margin: 0 auto;
+}
+
+.city{
+    width: 1400px;
+    height: 325px;
+    text-align: center;
+    background: url(../Axi/styles/sity.jpg) rgba(0, 0, 0, 0.65); /* Прописываем путь к картинке и задаем цвет и прозрачность */
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+}
+
+.white-title{
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px;
+    text-transform: uppercase;
+    color: #FFFFFF; 
+    padding: 40px;
+}
+
+.white-line{
+    width: 64px;
+    height: 2px;
+    background-color: #FFFFFF;
+    border-width: 0px;
+}
+
+.gorgeus{
+    font-family: 'Open Sans', sans-serif;
+    color: #FFFFFF;
+    opacity: .8; 
+    padding: 30px;
+}
+
+.button-text{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0 auto;
+}
+
+.button{
+    width: 135px;
+    height: 42px;
+    display: inline-block;
+    color: #fff;
+    border: 1px solid #fff;
+    text-align: center;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    cursor:pointer;
+    overflow: hidden; 
+}
+
+.social-network{
+    width: 1400px;
+    height: 101px;
+    text-align: center;
+    background-color: #000000;
+}
+
+.social-img{
+    width: 317px;
+    height: 23px;
+    margin: 0 auto;
+    padding-top: 23px;
+}
+
+.social-text{
+    font-family: 'Open Sans', sans-serif;
+    color: #FFFFFF;
+    opacity: .5; 
+}
